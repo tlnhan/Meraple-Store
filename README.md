@@ -38,6 +38,6 @@ Sequence Diagram:
 - Calculating items:
     ![Calculating](https://user-images.githubusercontent.com/95977133/210172464-61512c06-e8b8-4f57-bcd0-ad6ccf8c37da.jpg)
 
-Hope there will helpful to you.
+Hope these are useful to you.
     
     
