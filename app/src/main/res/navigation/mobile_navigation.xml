@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="vn.edu.huflit.merapleshop.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="vn.edu.huflit.merapleshop.ui.profile.ProfileFragment"
+        android:label="@string/profile"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/nav_category"
+        android:name="vn.edu.huflit.merapleshop.ui.category.CategoryFragment"
+        android:label="@string/category"
+        tools:layout="@layout/fragment_category" />
+    <fragment
+        android:id="@+id/nav_offers"
+        android:name="vn.edu.huflit.merapleshop.OffersFragment"
+        android:label="@string/offers"
+        tools:layout="@layout/fragment_offers" />
+    <fragment
+        android:id="@+id/nav_new_products"
+        android:name="vn.edu.huflit.merapleshop.NewProductsFragment"
+        android:label="@string/new_products"
+        tools:layout="@layout/fragment_new_products" />
+    <fragment
+        android:id="@+id/nav_my_orders"
+        android:name="vn.edu.huflit.merapleshop.MyOrdersFragment"
+        android:label="@string/my_orders"
+        tools:layout="@layout/fragment_my_orders" />
+    <fragment
+        android:id="@+id/nav_my_carts"
+        android:name="vn.edu.huflit.merapleshop.MyCartsFragment"
+        android:label="@string/my_carts"
+        tools:layout="@layout/fragment_my_carts" />
+    <fragment
+        android:id="@+id/nav_log_out"
+        android:name="vn.edu.huflit.merapleshop.LogOutFragment"
+        android:label="@string/log_out"
+        tools:layout="@layout/fragment_log_out" />
+</navigation>

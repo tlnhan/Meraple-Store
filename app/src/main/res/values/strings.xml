@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Meraple Shop</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcome to Meraple !</string>
+    <string name="nav_header_subtitle">Happy to see you ♡</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Cài đặt</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="profile">Profile</string>
+    <string name="category">Category</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="offers">Offers</string>
+    <string name="new_products">New Products</string>
+    <string name="my_orders">My Orders</string>
+    <string name="my_carts">My Carts</string>
+    <string name="log_out">Log Out</string>
+    <string name="description">Clothes of the Meraple Shop brand with soft, airy cotton material, is an indispensable product for men in the active summer.</string>
+</resources>

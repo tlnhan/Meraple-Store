@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1076518590102",
+    "firebase_url": "https://meraple-shop-default-rtdb.firebaseio.com",
+    "project_id": "meraple-shop",
+    "storage_bucket": "meraple-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076518590102:android:2de249f3733125db7f94b7",
+        "android_client_info": {
+          "package_name": "vn.edu.huflit.merapleshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076518590102-am10essk7drrpgbgequqvg8vuuk1g6iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.huflit.merapleshop",
+            "certificate_hash": "0fde350d601da98bfed95239d7cbad56613eb5a6"
+          }
+        },
+        {
+          "client_id": "1076518590102-q2e19j5r1c6hg5j92elsj3iapb86k80r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvdYa3baHq64GSrF7LxCyLY4SdQjCeChQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076518590102-q2e19j5r1c6hg5j92elsj3iapb86k80r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
