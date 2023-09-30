@@ -30,6 +30,7 @@ android {
     buildFeatures {
         viewBinding true
     }
+    namespace 'vn.edu.huflit.merapleshop'
 }
 
 
